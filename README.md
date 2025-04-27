@@ -1,1 +1,3 @@
 # Jilu-dialect-dataset
+
+This dataset is for research purposes only and commercial use is prohibited. The dataset is currently being organized...
