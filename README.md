@@ -1,3 +1,3 @@
 # Jilu-dialect-dataset
 
-This dataset is for research purposes only and commercial use is prohibited. The dataset is currently being organized...
+This dataset is solely for research purposes and commercial use is strictly prohibited. Please contact xialin178@gmail.com to obtain the full version of the dataset.
